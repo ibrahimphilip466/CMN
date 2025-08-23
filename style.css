@@ -222,7 +222,7 @@ header .hamburger span {
 }
 
 .founders .founder-page .f-img {
-  width: 350px;
+  width: 250px;
   align-self: center;
   justify-self: center;
   padding-left: 5%;
@@ -574,6 +574,7 @@ footer .footer-nav, li , a{
   text-decoration: none;
   color: #fff;
 }
+
 
 
 
